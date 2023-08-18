@@ -8,6 +8,7 @@ Welcome to the repository for my Daily Journal! This is a personal project that 
 - [Features](#features)
 - [Developement](#developement)
 - [Getting Started](#getting-started)
+- [Live Images](#live-images)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -44,6 +45,29 @@ To run [Your Daily Journal Website Name] locally or contribute to its developmen
 2. Navigate to the project directory: `cd your-daily-journal`
 3. Install the necessary dependencies: `npm install`
 4. Start the local development server: `npm app.js`
+
+## Live Images
+
+### Home:
+
+![Home Page](Images\home.png)
+
+### About:
+
+![About Page](Images\about.png)
+
+### Blog Post:
+
+![Post](Images\day1.png)
+
+### Compose Page:
+
+![Compose Page](Images\compose.png)
+
+### New Post:
+
+![New Post](Images\home2.png)
+![New Post](Images\day5.png)
 
 ## Contributing
 
