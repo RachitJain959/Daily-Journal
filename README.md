@@ -50,24 +50,24 @@ To run [Your Daily Journal Website Name] locally or contribute to its developmen
 
 ### Home:
 
-![Home Page](Images\home.png)
+![Home Page](Images/home.png)
 
 ### About:
 
-![About Page](Images\about.png)
+![About Page](Images/about.png)
 
 ### Blog Post:
 
-![Post](Images\day1.png)
+![Post](Images/day1.png)
 
 ### Compose Page:
 
-![Compose Page](Images\compose.png)
+![Compose Page](Images/compose.png)
 
 ### New Post:
 
-![New Post](Images\home2.png)
-![New Post](Images\day5.png)
+![New Post](Images/home2.png)
+![New Post](Images/day5.png)
 
 ## Contributing
 
